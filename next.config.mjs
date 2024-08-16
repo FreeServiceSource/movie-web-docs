@@ -6,5 +6,6 @@ const withGuider = guider({
 
 export default withGuider({
   output: 'export',
-  basePath: '/movie-web_docs',
+  // basePath: '/movie-web_docs',
+  // assetPrefix: '/movie-web_docs',
 });
