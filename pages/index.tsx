@@ -17,7 +17,10 @@ export default function LandingPage() {
         </Hero.Subtitle>
         <Hero.Actions>
           <Button to="/self-hosting/hosting-intro">Get Started</Button>
-          <Button to="https://github.com/FreeServiceSource/movie-web" type="secondary">
+          <Button
+            to="https://github.com/FreeServiceSource/movie-web"
+            type="secondary"
+          >
             Open on GitHub →
           </Button>
         </Hero.Actions>
